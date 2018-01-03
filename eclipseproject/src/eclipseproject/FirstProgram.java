@@ -1,8 +1,10 @@
 package eclipseproject;
 
 public class FirstProgram {
-
-	public static void main(String[] args) {
+	
+	
+	public static void main(String[] args)
+	{
 		// TODO Auto-generated method stub
 		System.out.println("Jai srimanarayana");
 		System.out.println("Hello");
@@ -10,6 +12,8 @@ public class FirstProgram {
 		{
 			System.out.println("Hello..." + i);
 		}
+		
+		System.out.println("ended");
 	}
 
 }
