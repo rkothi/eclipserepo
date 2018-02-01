@@ -10,7 +10,7 @@ public class FirstProgram {
 		System.out.println("Hello");
 		for(int i =0;i<10;i++)
 		{
-			System.out.println("Hello..." + i);
+			System.out.println("Hello... Jai srimanarayana" + i);
 		}
 		
 		System.out.println("ended");
